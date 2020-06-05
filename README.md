@@ -39,7 +39,7 @@ O E-Coleta é um app com o objetivo de ligar pessoas que querem descartar seus r
 
 - Web: Disponível em https://e-coleta.netlify.app/
 - Api: Disponível em https://e-coleta-api.herokuapp.com/
-- Mobile: Ainda não possui build
+- Mobile: Disponível em https://github.com/gustavolbs/E-Coleta-Mobile/releases/download/1.0.0/E-Coleta-2564a2f7f9b04be1b68c92347acc83d6-signed.apk
 
 ## O que está incluso
 
