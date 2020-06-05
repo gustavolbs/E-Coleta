@@ -9,9 +9,9 @@
     Seu marketplace de coleta de resíduos<br />
     Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
     <br>
-    <a href="https://github.com/gustavolbs/Ecoleta/issues/new?template=bug.md">Reportar bug</a>
+    <a href="https://github.com/gustavolbs/E-Coleta/issues/new?template=bug.md">Reportar bug</a>
     ·
-    <a href="https://github.com/gustavolbs/Ecoleta/issues/new?template=feature.md&labels=feature">Pedir nova feature</a>
+    <a href="https://github.com/gustavolbs/E-Coleta/issues/new?template=feature.md&labels=feature">Pedir nova feature</a>
   </p>
 </p>
 
@@ -96,13 +96,13 @@ web/
 
 ## Bugs e pedidos de features
 
-Encontrou um bug ou deseja uma nova feature? Por favor verifique se já não existe uma issue com tal anotação (aberta ou fechada), senão, crie-a. Você pode criar uma nova issue através deste [link](https://github.com/gustavolbs/Ecoleta/issues/new).
+Encontrou um bug ou deseja uma nova feature? Por favor verifique se já não existe uma issue com tal anotação (aberta ou fechada), senão, crie-a. Você pode criar uma nova issue através deste [link](https://github.com/gustavolbs/E-Coleta/issues/new).
 
 ## Contribuindo
 
 Para contibuir, todo o código deve estar em conformidade com o padrão desenvolvido pelos autores, mantido por [gustavolbs](https://github.com/gustavolbs).
 
-As preferências do editor estão disponíveis no [editor config](https://github.com/Ecoleta/blob/master/.editorconfig) para facilitar o uso em editores de texto comuns. Leia mais e faça o download de plugins em <https://editorconfig.org/>.
+As preferências do editor estão disponíveis no [editor config](https://github.com/E-Coleta/blob/master/.editorconfig) para facilitar o uso em editores de texto comuns. Leia mais e faça o download de plugins em <https://editorconfig.org/>.
 
 ## Criadores
 
