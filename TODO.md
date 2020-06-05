@@ -1,0 +1,3 @@
+- Migrar API para Postgres e fazer deploy
+- Responsividade Front
+- Splash Mobile

@@ -1,0 +1,9 @@
+[submodule "E-Coleta-Web"]
+	path = E-Coleta-Web
+	url = https://github.com/gustavolbs/E-Coleta-Web
+[submodule "E-Coleta-API"]
+	path = E-Coleta-API
+	url = https://github.com/gustavolbs/E-Coleta-API
+[submodule "E-Coleta-Mobile"]
+	path = E-Coleta-Mobile
+	url = https://github.com/gustavolbs/E-Coleta-Mobile
