@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://github.com/gustavolbs/Ecoleta/blob/master/logo.png" alt="Logo">
+    <img src="https://github.com/gustavolbs/E-Coleta/blob/master/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">E-Coleta</h3>
